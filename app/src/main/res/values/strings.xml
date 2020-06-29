@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teste lista de tarefas</string>
+
+    <!--Task Activity-->
+    <string name="task_tittle">Task</string>
+    <string name="insert">Cadastrar</string>
+</resources>
